@@ -1,2 +1,2 @@
 # bcoin_google_script
-A simple script destiny to get te real time value of BCOIN
+A simple script designed to get the real-time value of BCOIN
