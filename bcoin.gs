@@ -1,10 +1,4 @@
 function bcoinGet(apiKei, convTo){
-
-  var formData = {
-    'amount': 1,
-    'symbol': 'BCOIN',
-    'convert': 'BRL'
-  };
   var h = {
     'Accepts': 'application/json',
     'X-CMC_PRO_API_KEY': apiKei
